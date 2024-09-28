@@ -10,6 +10,7 @@
 
 # Weekly chores
 - [ ] Clean apartment
+	- [x] Empty trash
 	- [ ] Kitchen counters
 	- [ ] Kitchen sink
 	- [ ] Stove
