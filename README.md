@@ -1,4 +1,3 @@
-# KANZISH
 ## Imagine operating systems so good that even monkeys could use them
 ![forgot the prompt but something like: newspaper retro art of space ape, closeup of eyes, focused and determined look](https://github.com/user-attachments/assets/9d4c1db4-945d-4189-ab62-2b757c50e70d)
 
