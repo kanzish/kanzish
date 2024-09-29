@@ -16,13 +16,6 @@ Imagine if you kept every single chat you had with an LLM as you attempted somet
 
 <img src="https://github.com/user-attachments/assets/f5d7d18c-d22d-47fc-a518-11f31b414120">
 
-<table>
-  <tr>
-    <td></td>
-    <td><img src="https://github.com/user-attachments/assets/3ce6b533-d2f8-40ce-80dd-30d9ed44a320"></td>
-  </tr>
-</table>
-
 ---
 
 \* "stream of tokens" as in "stream of consciousness"
