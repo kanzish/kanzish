@@ -1,2 +1,0 @@
-- Ben Eater's 8-bit computer series: https://eater.net/
-- Global Science Network neuralmorphic breadboard circuit: https://www.youtube.com/watch?v=Uhuo9ketdhg
