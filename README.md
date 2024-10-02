@@ -1,4 +1,4 @@
-## Imagine operating systems so good that even monkeys could use them
+## Day 0 - Imagine operating systems so good that even monkeys could use them
 ![forgot the prompt but something like: newspaper retro art of space ape, closeup of eyes, focused and determined look](https://github.com/user-attachments/assets/9d4c1db4-945d-4189-ab62-2b757c50e70d)
 
 Hi, I'm Kanzi and I'm learning systems programming from scratch. As mentioned in ggerganov's llama.cpp discussion post "[Inference at the edge](https://github.com/ggerganov/llama.cpp/discussions/205)" we're approaching a time where we can all collectively and individually explore radical new ideas
