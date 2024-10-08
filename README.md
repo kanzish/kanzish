@@ -50,6 +50,5 @@
 </table>
 
 - Windoz 98¾ (generative Websim operating systems)
-
-### 30+ other projects coming soon
-### 50+ art projects coming soon
+- Obsidian Notes chatbots, agents, and generative visualizers
+- Layers.p5 - Handsfree, layered, midi-controllable generative art framework
